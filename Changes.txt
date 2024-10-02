@@ -3,5 +3,3 @@ Prueba Alias
 Modificación en rama first-revision
 Modificacion simultanea en main
 Modificación simultanea en first-revision
-
-Cambio a ser obviado por revert
