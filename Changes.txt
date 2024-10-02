@@ -2,3 +2,4 @@ Versión 3
 Prueba Alias
 Modificación en rama first-revision
 Modificacion simultanea en main
+Modificación simultanea en first-revision
