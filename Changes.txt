@@ -6,6 +6,6 @@ Modificación simultanea en first-revision
 
 Cambio para revert 1
 
-
-aaaaaaaaa
-bbbbbbb
+a
+h
+bbbbb
